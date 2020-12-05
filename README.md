@@ -1,4 +1,4 @@
-# Examen PHP
+# Repaso de examen PHP
 
 ### Sesiones
 
